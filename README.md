@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Mohamed Madyan
 
-<!--
-**mohamedmadyan56/mohamedmadyan56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack MERN Developer**  
+🚀 Building scalable web apps with **React**, **Node.js**, **Express**, and **MongoDB**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+- Social Media API (Node.js, Express, MongoDB)
+- POS System (MERN Stack)
+- Authentication & Authorization Systems
+
+---
+
+## 🌱 Skills
+**Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
+**Backend:** Node.js, Express, MongoDB, Mongoose, JWT, Bcrypt  
+**Tools:** Git, GitHub, Postman, VSCode  
+
+---
+
+## 📊 GitHub Stats
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedmadyan&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact Me
+- LinkedIn: [linkedin.com/in/mohamedmadyan]([https://www.linkedin.com/in/mohamedmadyan](https://www.linkedin.com/in/muhammed-madyan-212928223/))  
+- Email:mohamedmadyan1234@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+"I love coding, building APIs, and exploring new tech trends 🚀"
