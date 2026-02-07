@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hey, I'm **Mohamed Madyan**
+# 👋 Hey, I'm **Mohamed Madyan**
 
 ### 💻 Full Stack MERN Developer
 
@@ -55,11 +55,11 @@
 
 <div align="center">
 
-![Mohamed's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=mohamedmadyan56&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117](https://github.com/mohamedmadyan56))
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedmadyan56&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmadyan56&layout=compact&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamedmadyan56&theme=radical&hide_border=true&border_radius=15&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mohamedmadyan56&theme=radical&hide_border=true&border_radius=15&background=0D1117)
 
 </div>
 
