@@ -173,10 +173,15 @@ const mohamed = {
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mohamedmadyan56&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=12&bg_color=0D1117&include_all_commits=true&custom_title=📈+Stats" alt="GitHub Stats" />
+        <img src="https://gh-readme-stats.vercel.app/api?username=mohamedmadyan56&show_icons=true&count_private=true&theme=radical&hide_border=true&border_radius=12&bg_color=0D1117&include_all_commits=true&custom_title=📈+Stats" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmadyan56&layout=compact&theme=radical&hide_border=true&border_radius=12&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+        <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=mohamedmadyan56&layout=compact&theme=radical&hide_border=true&border_radius=12&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedmadyan56&theme=radical" alt="Profile Summary" />
       </td>
     </tr>
     <tr>
