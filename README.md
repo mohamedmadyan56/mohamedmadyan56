@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00E676&height=200&section=header&text=Mohamed%20Madyan&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=00E676&center=true&vCenter=true&width=435&lines=Full+Stack+MERN+Developer;Open+Source+Enthusiast;Building+Cool+Shit+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=22&duration=1800&pause=600&color=00FF00&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;root%40SAN3A~%23+./configure;Building+the+future+line+by+line;sudo+apt+install+--fix+everything;Cyber+Craftsman+at+work" alt="Typing SVG" />
+</p>
 
 <div align="center">
   <p>
@@ -23,22 +23,23 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 /root/about.me
 
-```javascript
-const mohamed = {
-  role: "Full Stack MERN Developer",
-  location: "Egypt",
-  experience: "Building production-grade web apps",
-  languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  
-  currentlyWorkingOn: "SAN3A - Smart Home Services Platform",
-  currentlyLearning: ["NestJS", "System Design", "Docker"],
-  
-  funFact: "I turn coffee into code ☕ → 💻",
-  
-  philosophy: "Write code that humans can read, not just machines can execute"
-};
+```bash
+root@SAN3A:~# cat about.json
+{
+  "user": "Mohamed Madyan",
+  "alias": "Cyber Craftsman",
+  "location": "Egypt",
+  "role": "Full Stack MERN Developer",
+  "status": "Building production-grade web apps since 2020",
+  "languages": ["JavaScript", "TypeScript", "HTML", "CSS"],
+  "current_project": "SAN3A - Smart Home Services Platform",
+  "learning": ["NestJS", "System Design", "Docker/K8s"],
+  "fun_fact": "I turn ☕ into code and 🔥 into features",
+  "philosophy": "First, solve the problem. Then, write the code."
+}
+root@SAN3A:~# █
 ```
 
 ---
@@ -221,14 +222,30 @@ const mohamed = {
 
 ---
 
+```
+root@SAN3A:~$ echo "Thanks for visiting! 🖖"
+Thanks for visiting! 🖖
+root@SAN3A:~$ echo "Let's build something legendary together"
+Let's build something legendary together
+root@SAN3A:~$ exit
+logout
+
+[Process completed]
+```
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,100:00C853&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:003300&height=120&section=footer&animation=fadeIn" width="100%"/>
   
   <p>
-    <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+    <i>
+      "The best way to predict the future is to <b>build</b> it."<br/>
+      <sub>— Alan Kay, adapted by a keyboard near you ⌨️</sub>
+    </i>
   </p>
   
   <p>
-    <b>💡 Always open to collaboration and new opportunities!</b>
+    <b>⚡ Always open to collaboration | Hacking the future one commit at a time</b>
   </p>
+  
+  <sub><img src="https://img.shields.io/badge/System-Operational-00FF00?style=flat-square&labelColor=000000"/></sub>
 </div>
