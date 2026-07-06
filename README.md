@@ -185,8 +185,11 @@ const mohamed = {
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=mohamedmadyan56&theme=radical&hide_border=true&border_radius=12&background=0D1117&dates=FFFFFF&fire=00E676&ring=00E676&currStreakLabel=00E676" alt="GitHub Streak" />
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamedmadyan56&theme=radical&utcOffset=2" alt="Productive Time" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamedmadyan56&theme=radical" alt="Repos per Language" />
       </td>
     </tr>
   </table>
