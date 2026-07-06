@@ -184,14 +184,6 @@ const mohamed = {
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedmadyan56&theme=radical" alt="Profile Summary" />
       </td>
     </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamedmadyan56&theme=radical&utcOffset=2" alt="Productive Time" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamedmadyan56&theme=radical" alt="Repos per Language" />
-      </td>
-    </tr>
   </table>
 </div>
 
