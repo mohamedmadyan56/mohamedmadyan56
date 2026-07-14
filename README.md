@@ -77,9 +77,43 @@ root@SAN3A:~# █
       <p>
         <strong>Tech:</strong> MERN Stack • Real-time Updates • Print Integration
       </p>
-      <br/>
       <p>
-        <a href="#">
+        <a href="https://github.com/mohamedmadyan56/POSProjectSystem">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🔐 Auth System</h3>
+      <p><em>Authentication & Authorization (Node.js)</em></p>
+      <p>
+        Production-ready JWT auth system with role-based access control, password reset, and email verification.
+      </p>
+      <p>
+        <strong>Tech:</strong> Node.js • Express • MongoDB • JWT • bcrypt • Nodemailer
+      </p>
+      <p>
+        <a href="https://github.com/mohamedmadyan56/Authentication-Authorization-NodeJS">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <h3>🧵 ThreadMarket SaaS</h3>
+      <p><em>Multi-vendor Clothing Marketplace</em></p>
+      <p>
+        Multi-vendor clothing marketplace SaaS connecting brands, shops, customers, and delivery partners across Egypt.
+      </p>
+      <p>
+        <strong>Tech:</strong> Node.js • Express • MongoDB • Role-based Architecture
+      </p>
+      <p>
+        <strong>Roles:</strong> Admin • Brand • Retail Shop • Customer • Delivery Company • Courier
+      </p>
+      <p>
+        <a href="https://github.com/mohamedmadyan56/ThreadMarket_SaaS">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
